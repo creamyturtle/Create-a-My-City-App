@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MedellinTourGuide</string>
+    <string name="hiking">Hiking</string>
+    <string name="cerro_de_las_tres_cruces">Cerro de las Tres Cruces</string>
+    <string name="backdoor_to_parque_arvi">Backdoor to Parque Arvi</string>
+    <string name="hiking_the_hill_at_tres_cruces">Hiking the hill at Tres Cruces can be extremely challenging.  This daytime adventure is not for the feint of heart.  A steep vertical climb, with some steps and roots to help you along the way.  There is a platform halfway up and another platform at the very top, where they sell food/drinks and you can rest.  Amazing scenic views and some great exercise, with a cool reward at the top.  This destination is extremely popular so come early to avoid the crowds.</string>
+    <string name="we_recommend_this_hike">We recommend this hike to all of our friends, and friends\' friends, who visit Medellin. It\'s an unforgettable, but virtually unknown, alternative route to Medellín\'s top tourist attractions, Parque Arví and the Metrocable. You\'ll enjoy the best views of the city from Cerro Pan de Azucar, a glimpse of Medellin\'s rural roots, and great food at the end.</string>
+    <string name="arenales_waterfall_hike">Arenales Waterfall Hike</string>
+    <string name="this_is_probably_the_best_known">This is probably the best known of all Medellin hiking trails (particularly the bottom half).  Starting up in the mountains at what remains of Pablo Escobar\'s infamous \"prison,\" La Catedral, this one-way hike takes you down first through steep pine forest, then into dense jungle, and on to two different waterfalls, Salto del Angel and Chorro de la Campana. At the end of the hike, you emerge from the forest at Arenales, where you can enjoy a fantastic north-facing view of the entire city of Medellin while you wait for a bus back to town.</string>
+    <string name="tourism">Tourism</string>
+    <string name="recreation">Recreation</string>
+    <string name="comuna_13_tour">Comuna 13 Tour</string>
+    <string name="explore_the_most_historic">Explore the most historic and cultural neighbourhood in Colombia, Comuna 13. Learn the history, experience the culture and art of the graffiti masterpieces. Try local food, fruits, beverages and desserts.</string>
+    <string name="medellin_tour_guide">Medellin Tour Guide</string>
+    <string name="experience">Experience</string>
+</resources>
